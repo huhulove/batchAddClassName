@@ -1,0 +1,16 @@
+{
+  "name": "elementui.theme",
+  "version": "1.0.0",
+  "description": "ElementUI主题文件中css类名批量添加命名空间",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huhulove",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-css-wrap": "^0.1.2"
+  }
+}
