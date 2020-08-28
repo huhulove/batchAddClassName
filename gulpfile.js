@@ -4,7 +4,7 @@ let cleanCSS = require("gulp-clean-css");
 let cssWrap = require("gulp-css-wrap");
 
 let customThemeName = ".theme-summer";
-let fileName = "#ff0000";
+let fileName = "#134273";
 
 gulp.task("addClassName", () => {
   return gulp
