@@ -3,7 +3,7 @@ let gulp = require("gulp");
 let cleanCSS = require("gulp-clean-css");
 let cssWrap = require("gulp-css-wrap");
 
-let customThemeName = ".theme-summer";
+let customThemeName = ".theme-134273";
 let fileName = "#134273";
 
 gulp.task("addClassName", () => {
